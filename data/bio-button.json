@@ -23,16 +23,4 @@
         "title": "About me",
         "target": "/about"
     }
-    // {
-    //     "id": 5,
-    //     "icon": "/bx-mail-send.svg",
-    //     "title": "Get in Touch",
-    //     "target": "mailto:alfian.aswinda@gmail.com"
-    // },
-    // {
-    //     "id": 6,
-    //     "icon": "/bx-mail-send.svg",
-    //     "title": "Get in Touch",
-    //     "target": "mailto:alfian.aswinda@gmail.com"
-    // }
 ]
