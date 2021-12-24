@@ -19,7 +19,7 @@
     },
     {
         "id": 4,
-        "icon": "/bx-mail-send.svg",
+        "icon": "/bx-cool.svg",
         "title": "About me",
         "target": "/about"
     }
