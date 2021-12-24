@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "icon": "/bx-mail-send.svg",
-        "title": "Get in Touch",
-        "target": "mailto:alfian.aswinda@gmail.com"
+        "icon": "/bx-code.svg",
+        "title": "My Page",
+        "target": "/"
     },
     {
         "id": 2,
-        "icon": "/bx-mail-send.svg",
-        "title": "Get in Touch",
+        "icon": "/bx-mail.svg",
+        "title": "Get in touch",
         "target": "mailto:alfian.aswinda@gmail.com"
     },
     {
         "id": 3,
-        "icon": "/bx-mail-send.svg",
-        "title": "Get in Touch",
-        "target": "mailto:alfian.aswinda@gmail.com"
+        "icon": "/bx-whatsapp.svg",
+        "title": "Send me WA message",
+        "target": "wa.me/6285725359530"
     },
     {
         "id": 4,
         "icon": "/bx-mail-send.svg",
-        "title": "Get in Touch",
-        "target": "mailto:alfian.aswinda@gmail.com"
-    },
-    {
-        "id": 5,
-        "icon": "/bx-mail-send.svg",
-        "title": "Get in Touch",
-        "target": "mailto:alfian.aswinda@gmail.com"
-    },
-    {
-        "id": 6,
-        "icon": "/bx-mail-send.svg",
-        "title": "Get in Touch",
-        "target": "mailto:alfian.aswinda@gmail.com"
+        "title": "About me",
+        "target": "/about"
     }
+    // {
+    //     "id": 5,
+    //     "icon": "/bx-mail-send.svg",
+    //     "title": "Get in Touch",
+    //     "target": "mailto:alfian.aswinda@gmail.com"
+    // },
+    // {
+    //     "id": 6,
+    //     "icon": "/bx-mail-send.svg",
+    //     "title": "Get in Touch",
+    //     "target": "mailto:alfian.aswinda@gmail.com"
+    // }
 ]
