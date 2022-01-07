@@ -6,6 +6,7 @@
             "alt": "My code"
         },
         "title": "My page",
+        "style": "",
         "target": "/"
     },
     {
@@ -15,6 +16,7 @@
             "alt": "mail me"
         },
         "title": "Get in touch",
+        "style": "",
         "target": "mailto:alfian.aswinda@gmail.com"
     },
     {
@@ -24,6 +26,7 @@
             "alt": "whatsapp me"
         },
         "title": "Send me message",
+        "style": "",
         "target": "https://wa.me/6285725359530"
     },
     {
@@ -33,6 +36,7 @@
             "alt": "about me icon"
         },
         "title": "About me",
+        "style": "bio-next",
         "target": "/about"
     }
 ]
