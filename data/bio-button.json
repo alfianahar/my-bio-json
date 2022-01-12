@@ -2,8 +2,8 @@
     {
         "id": 1,
         "icon": {
-            "style": "far",
-            "img": "file-code"
+            "type": "",
+            "name": "code-alt"
         },
         "title": "My page",
         "style": "",
@@ -12,8 +12,8 @@
     {
         "id": 2,
         "icon": {
-            "style": "far",
-            "img": "envelope-open"
+            "type": "",
+            "name": "mail-send"
         },
         "title": "Get in touch",
         "style": "",
@@ -22,8 +22,8 @@
     {
         "id": 3,
         "icon": {
-            "style": "fab",
-            "img": "whatsapp"
+            "type": "logo",
+            "name": "whatsapp"
         },
         "title": "Send me message",
         "style": "",
@@ -32,8 +32,8 @@
     {
         "id": 4,
         "icon": {
-            "style": "far",
-            "img": "laugh-beam"
+            "type": "",
+            "name": "cool"
         },
         "title": "About me",
         "style": "bio-next",
