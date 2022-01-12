@@ -2,8 +2,8 @@
     {
         "id": 1,
         "icon": {
-            "img": "/bx-code.svg",
-            "alt": "My code"
+            "style": "far",
+            "img": "code"
         },
         "title": "My page",
         "style": "",
@@ -12,8 +12,8 @@
     {
         "id": 2,
         "icon": {
-            "img": "/bx-mail.svg",
-            "alt": "mail me"
+            "style": "far",
+            "img": "paper-plane"
         },
         "title": "Get in touch",
         "style": "",
@@ -22,8 +22,8 @@
     {
         "id": 3,
         "icon": {
-            "img": "/bx-whatsapp.svg",
-            "alt": "whatsapp me"
+            "style": "fab",
+            "img": "paper-plane"
         },
         "title": "Send me message",
         "style": "",
@@ -32,8 +32,8 @@
     {
         "id": 4,
         "icon": {
-            "img": "/bx-cool.svg",
-            "alt": "about me icon"
+            "style": "far",
+            "img": "laugh-beam"
         },
         "title": "About me",
         "style": "bio-next",
