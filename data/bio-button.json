@@ -2,8 +2,8 @@
     {
         "id": 1,
         "icon": {
-            "style": "fas",
-            "img": "code"
+            "style": "far",
+            "img": "file-code"
         },
         "title": "My page",
         "style": "",
@@ -12,8 +12,8 @@
     {
         "id": 2,
         "icon": {
-            "style": "fas",
-            "img": "envelope-open-text"
+            "style": "far",
+            "img": "envelope-open"
         },
         "title": "Get in touch",
         "style": "",
